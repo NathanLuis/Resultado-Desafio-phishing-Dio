@@ -1,5 +1,3 @@
-# Resultado-Desafio-phishing-Dio
-
 ## Resultado do meu desfio de projeto de phishing da dio
 
 ### OBS : A explicação foi feita utilizando o setoolkit mas não consegui fazelo funcionar de jeito nenhum então utilizei o Dark-Phish
